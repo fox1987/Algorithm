@@ -1,0 +1,4 @@
+Program(target = 'kmp',
+        source = ['kmp.cc'])
+Program(target = 'gcd',
+        source = ['gcd.cc'])
